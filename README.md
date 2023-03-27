@@ -2,7 +2,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Drillan767&show_icons=true&theme=dracula&hide_border=true" width="400px">
 
-- ⏳ I am 29 years old, and have been working around web development for 8 year.
+- ⏳ I am 30 years old, and have been working around web development for 9 year.
 - 🧳 I'm currently working as a full stack engineer. I write code, test it, integrate it, update it, deploy it, automate it, aaaand debug it.
 - 💻 I am currently using PHP and Laravel for work, but also use VueJS in an [InertiaJS](https://inertiajs.com/) context.
 - 🗺 I live in Lyon, France.
